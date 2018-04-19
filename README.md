@@ -1,4 +1,4 @@
-#pxt-gitbook-sample
+# pxt-gitbook-sample
 
 View the (demo here)[https://microsoft.github.io/pxt-gitbook-sample/].
 
