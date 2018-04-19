@@ -14,6 +14,19 @@ Once Gitbook installs (run `gitbook install`) the plugin, you're good to go.
 
 You can configure the MakeCode base url (the target you're using) in the book.json's pluginConfig section.
 
+```
+{
+    "plugins": [
+        "pxt"
+    ],
+    "pluginsConfig": {
+        "pxt": {
+            "baseUrl": "makecode.microbit.org"
+        }
+    }
+}
+```
+
 # License
 
 MIT

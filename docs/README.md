@@ -29,6 +29,6 @@ basic.forever(() => {
 })
 ```
 
-For more information, go to [Microsoft/pxt-gitbook-sample](https://microsoft.github.io/pxt-gitbook-sample/).
+For more information, go to [Microsoft/pxt-gitbook-sample](https://github.com/Microsoft/pxt-gitbook-sample/).
 
 or search for PXT in the Gitbook Plugin library
