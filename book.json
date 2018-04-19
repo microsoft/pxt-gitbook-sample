@@ -1,0 +1,11 @@
+{
+    "root": "./docs",
+    "plugins": [
+        "pxt"
+    ],
+    "pluginsConfig": {
+        "pxt": {
+            "baseUrl": "makecode.microbit.org"
+        }
+    }
+}
