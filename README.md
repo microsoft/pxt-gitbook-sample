@@ -1,6 +1,6 @@
 # pxt-gitbook-sample
 
-View the (demo here)[https://microsoft.github.io/pxt-gitbook-sample/].
+View the [demo here](https://microsoft.github.io/pxt-gitbook-sample/).
 
 This repo is a documentation website generated with (Gitbook)[https://toolchain.gitbook.com/] that makes use of the (Gitbook PXT Plugin)[https://github.com/microsoft/gitbook-plugin-pxt] to render Microsoft MakeCode blocks from markdown.
 
